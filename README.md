@@ -23,4 +23,4 @@ Python version 3.6.2 and latest version of VS Code.</br>
   <li><a href="https://gogul.dev/software/hand-gesture-recognition-p2">Gesture Recognition</a></li>
 </ul>
 
-Special thanks to my mentors Kushal sir(Faculty), Madonna madam (HOD) and Dhruvi Di(Senior).
+Special thanks to my mentors Kushal sir(Professor), Madonna madam (HOD) and Dhruvi Di(Senior).
